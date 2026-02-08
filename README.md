@@ -45,22 +45,6 @@ This project allows users to search for any city and view current weather condit
 
 ---
 
-## Project Structure
-src/
-├── assets/
-├── App.jsx
-├── WeatherApp.jsx
-├── SearchBox.jsx
-├── InfoBox.jsx
-├── main.jsx
-├── App.css
-├── index.css
-├── SearchBox.css
-├── InfoBox.css
-
-
----
-
 ## Getting Started
 Follow the steps below to run the project locally.
 
