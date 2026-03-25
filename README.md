@@ -54,4 +54,4 @@ Follow the steps below to run the project locally.
 ### Installation & Run
 ```bash
 npm install
-npm run dev.
+npm run dev
