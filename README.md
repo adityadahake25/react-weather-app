@@ -2,7 +2,7 @@
 
 A weather forecasting web application built using React that fetches real-time weather data from external APIs and displays detailed weather parameters for user-entered locations with proper error handling.
 
----
+------
 
 ## Project Overview
 This project allows users to search for any city and view current weather conditions. It retrieves live weather data from a weather API, processes the response, and dynamically renders key weather information using a component-based React architecture.
